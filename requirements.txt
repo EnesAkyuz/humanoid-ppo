@@ -1,0 +1,12 @@
+mujoco>=3.6.0
+mujoco-mjx>=3.6.0
+jax[cuda12]
+brax
+flax
+optax
+orbax-checkpoint
+pyyaml>=6.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+tqdm
+rich
