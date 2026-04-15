@@ -1,6 +1,28 @@
-gymnasium[mujoco]>=1.0.0
-stable-baselines3>=2.3.0
-tensorboard>=2.15.0
-numpy>=1.24.0
-matplotlib>=3.7.0
-pyyaml>=6.0
+# Deps for the local SB3 + PyTorch CPU training pipeline.
+#
+# Installation:
+#   python3.11 -m venv .venv
+#   source .venv/bin/activate
+#   pip install -r requirements.txt
+
+# RL training stack
+stable-baselines3==2.8.0
+gymnasium[mujoco]==1.2.3
+torch==2.11.0
+
+# Physics (also pulled in by gymnasium[mujoco], pinned for reproducibility)
+mujoco==3.6.0
+
+# Utilities
+numpy==2.4.4
+matplotlib==3.10.8
+pyyaml==6.0.3
+tqdm==4.67.3
+
+# Logging
+tensorboard==2.20.0
+
+# Video snapshot recording (snapshots.py)
+imageio==2.37.3
+imageio-ffmpeg==0.6.0
+moviepy==2.2.1
