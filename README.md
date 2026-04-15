@@ -13,7 +13,7 @@ studies** from the same project:
 Same task, same algorithm family (PPO), very different trajectories.
 
 <p align="center">
-  <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/final.mp4" controls muted loop playsinline width="560"></video>
+  <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--final.mp4" controls muted loop playsinline width="560"></video>
 </p>
 <p align="center"><em>Best local-SB3 policy — the cleanest gait we got.</em></p>
 
@@ -75,18 +75,18 @@ reaches a cleaner walking gait than any of the Lambda MJX runs.
 <table>
   <tr>
     <td align="center"><strong>Best model checkpoint</strong><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/best_model.mp4" controls width="320"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--best_model.mp4" controls width="320"></video>
     </td>
     <td align="center"><strong>Final policy</strong><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/final.mp4" controls width="320"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--final.mp4" controls width="320"></video>
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Best model — episode A</strong><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/best_model-episode-0.mp4" controls width="320"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--best_model-episode-0.mp4" controls width="320"></video>
     </td>
     <td align="center"><strong>Best model — episode B</strong><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/best_model-episode-1.mp4" controls width="320"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--best_model-episode-1.mp4" controls width="320"></video>
     </td>
   </tr>
 </table>
@@ -99,32 +99,32 @@ the Zoo hyperparameters + `VecNormalize`.
 <table>
   <tr>
     <td align="center"><sub>2.5M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_02500000.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_02500000.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>10M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_10000000.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_10000000.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>17.5M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_17500000.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_17500000.mp4" controls width="220"></video>
     </td>
   </tr>
   <tr>
     <td align="center"><sub>25M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_25000000.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_25000000.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>32.5M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_32500000.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_32500000.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>40M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_40000000.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_40000000.mp4" controls width="220"></video>
     </td>
   </tr>
   <tr>
     <td align="center"><sub>47.5M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_47500000.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_47500000.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>50M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_50000000.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_50000000.mp4" controls width="220"></video>
     </td>
     <td></td>
   </tr>
@@ -136,52 +136,52 @@ the Zoo hyperparameters + `VecNormalize`.
 <table>
   <tr>
     <td align="center"><sub>2.5M · ep A</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_02500000-episode-0.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_02500000-episode-0.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>2.5M · ep B</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_02500000-episode-1.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_02500000-episode-1.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>10M · ep A</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_10000000-episode-0.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_10000000-episode-0.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>10M · ep B</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_10000000-episode-1.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_10000000-episode-1.mp4" controls width="220"></video>
     </td>
   </tr>
   <tr>
     <td align="center"><sub>17.5M · ep A</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_17500000-episode-0.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_17500000-episode-0.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>17.5M · ep B</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_17500000-episode-1.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_17500000-episode-1.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>25M · ep A</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_25000000-episode-0.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_25000000-episode-0.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>25M · ep B</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_25000000-episode-1.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_25000000-episode-1.mp4" controls width="220"></video>
     </td>
   </tr>
   <tr>
     <td align="center"><sub>32.5M · ep A</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_32500000-episode-0.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_32500000-episode-0.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>32.5M · ep B</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_32500000-episode-1.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_32500000-episode-1.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>40M · ep A</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_40000000-episode-0.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_40000000-episode-0.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>40M · ep B</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_40000000-episode-1.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_40000000-episode-1.mp4" controls width="220"></video>
     </td>
   </tr>
   <tr>
     <td align="center"><sub>42.5M · ep A</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_42500000-episode-0.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_42500000-episode-0.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>42.5M · ep B</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/local/videos/snapshots/step_42500000-episode-1.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/local--step_42500000-episode-1.mp4" controls width="220"></video>
     </td>
     <td></td>
     <td></td>
@@ -201,32 +201,32 @@ the shuffle never becomes a walk.
 <table>
   <tr>
     <td align="center"><sub>0 steps (random init)</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos/step_000000000.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos--step_000000000.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>26M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos/step_026419200.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos--step_026419200.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>53M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos/step_052838400.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos--step_052838400.mp4" controls width="220"></video>
     </td>
   </tr>
   <tr>
     <td align="center"><sub>79M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos/step_079257600.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos--step_079257600.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>106M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos/step_105676800.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos--step_105676800.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>132M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos/step_132096000.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos--step_132096000.mp4" controls width="220"></video>
     </td>
   </tr>
   <tr>
     <td align="center"><sub>159M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos/step_158515200.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos--step_158515200.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>185M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos/step_184934400.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos--step_184934400.mp4" controls width="220"></video>
     </td>
     <td></td>
   </tr>
@@ -256,63 +256,63 @@ reward-hack.
 <table>
   <tr>
     <td align="center"><sub>0 (random init)</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_000000000.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_000000000.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>51M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_051118080.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_051118080.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>102M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_102236160.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_102236160.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>153M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_153354240.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_153354240.mp4" controls width="220"></video>
     </td>
   </tr>
   <tr>
     <td align="center"><sub>204M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_204472320.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_204472320.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>255M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_255590400.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_255590400.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>306M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_306708480.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_306708480.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>357M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_357826560.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_357826560.mp4" controls width="220"></video>
     </td>
   </tr>
   <tr>
     <td align="center"><sub>408M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_408944640.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_408944640.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>460M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_460062720.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_460062720.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>511M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_511180800.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_511180800.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>562M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_562298880.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_562298880.mp4" controls width="220"></video>
     </td>
   </tr>
   <tr>
     <td align="center"><sub>613M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_613416960.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_613416960.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>664M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_664535040.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_664535040.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub>715M steps</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_715653120.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_715653120.mp4" controls width="220"></video>
     </td>
     <td align="center"><sub><strong>766M — peak 18,052</strong></sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_766771200.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_766771200.mp4" controls width="220"></video>
     </td>
   </tr>
   <tr>
     <td align="center"><sub>817M steps (post-NaN recovery)</sub><br>
-      <video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v2/step_817889280.mp4" controls width="220"></video>
+      <video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v2--step_817889280.mp4" controls width="220"></video>
     </td>
     <td></td><td></td><td></td>
   </tr>
@@ -335,38 +335,38 @@ few frames).
   </tr>
   <tr>
     <td align="center"><sub>10M steps</sub></td>
-    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v3/step_010321920.mp4" controls width="280"></video></td>
-    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v4/step_010321920.mp4" controls width="280"></video></td>
+    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v3--step_010321920.mp4" controls width="280"></video></td>
+    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v4--step_010321920.mp4" controls width="280"></video></td>
   </tr>
   <tr>
     <td align="center"><sub>20M steps</sub></td>
-    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v3/step_020643840.mp4" controls width="280"></video></td>
-    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v4/step_020643840.mp4" controls width="280"></video></td>
+    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v3--step_020643840.mp4" controls width="280"></video></td>
+    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v4--step_020643840.mp4" controls width="280"></video></td>
   </tr>
   <tr>
     <td align="center"><sub>31M steps</sub></td>
-    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v3/step_030965760.mp4" controls width="280"></video></td>
-    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v4/step_030965760.mp4" controls width="280"></video></td>
+    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v3--step_030965760.mp4" controls width="280"></video></td>
+    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v4--step_030965760.mp4" controls width="280"></video></td>
   </tr>
   <tr>
     <td align="center"><sub>41M steps</sub></td>
     <td align="center"><em>(diverged)</em></td>
-    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v4/step_041287680.mp4" controls width="280"></video></td>
+    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v4--step_041287680.mp4" controls width="280"></video></td>
   </tr>
   <tr>
     <td align="center"><sub><strong>52M — peak 18,715 (v4)</strong></sub></td>
     <td align="center"></td>
-    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v4/step_051609600.mp4" controls width="280"></video></td>
+    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v4--step_051609600.mp4" controls width="280"></video></td>
   </tr>
   <tr>
     <td align="center"><sub>62M steps</sub></td>
     <td align="center"></td>
-    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v4/step_061931520.mp4" controls width="280"></video></td>
+    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v4--step_061931520.mp4" controls width="280"></video></td>
   </tr>
   <tr>
     <td align="center"><sub>72M steps</sub></td>
     <td align="center"></td>
-    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/raw/main/videos_v4/step_072253440.mp4" controls width="280"></video></td>
+    <td align="center"><video src="https://github.com/EnesAkyuz/humanoid-ppo/releases/download/videos-v1/videos_v4--step_072253440.mp4" controls width="280"></video></td>
   </tr>
 </table>
 
